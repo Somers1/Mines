@@ -1,7 +1,7 @@
 # Mines
 Roobet/Stake mines game for mobile built with React Native.
 
-- Win money by selecting the amount of mines and how much you want to bet.
+- Win money by selecting clear tiles
 - More mines = more profit
 - Multiplier increases every time you select a clear tile
 - Select a tile with a mine and you lose it all
